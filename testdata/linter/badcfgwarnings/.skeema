@@ -1,0 +1,2 @@
+errors=bad-pk
+warnings=bad-charset,made-up-problem,bad-engine

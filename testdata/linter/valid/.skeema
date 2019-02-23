@@ -1,0 +1,7 @@
+# It's ok to specify same problem under both errors and warnings.
+# errors will take precedence, regardless of order in config file.
+errors=no-pk
+warnings=no-pk,bad-charset,bad-engine
+
+allow-charset=utf8mb4, utf8
+allow-engine=myisam
